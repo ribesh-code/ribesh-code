@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ribesh-code
+- 👋 Hi, I’m @ribeshbasnet
 - 👀 I’m interested in Dart & Golang
 - 🌱 I’m currently learning Dart & Golang
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ribeshbasnet
-- 👀 I’m interested in Dart & Golang
-- 🌱 I’m currently learning Dart & Golang
+- 👀 I’m interested in Dart & Rust
+- 🌱 I’m currently learning Dart & Rust
 
 
 <!---
